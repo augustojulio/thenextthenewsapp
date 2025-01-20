@@ -1,0 +1,8 @@
+feedparser==6.0.10
+transformers==4.31.0
+torch==2.0.1  # Needed for the Hugging Face model
+gtts==2.3.2
+moviepy==1.0.3
+google-auth==2.22.0
+google-auth-oauthlib==1.0.0
+google-api-python-client==2.95.0
